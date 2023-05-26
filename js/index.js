@@ -1,7 +1,7 @@
 // MOBILE MENU
 let hamburguerButton = document.querySelector("#menu__btn--mobile-version");
 let mobileMenu = document.querySelector("#menu__menulist--mobile-version");
-let listButton = document.querySelector("#menu__menulist--mobile-version");
+let listButton = document.querySelector("#menu_menulist-mobile_version");
 let buttonOpenClose = false;
 
 hamburguerButton.addEventListener("click", () => {
